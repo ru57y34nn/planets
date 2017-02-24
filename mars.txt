@@ -1,2 +1,3 @@
 Mars is red.
 It is the fourth planet from the sun.
+It is smaller than Earth.
