@@ -1,4 +1,4 @@
 Mars is red.
 It is the fourth planet from the sun.
 It is smaller than Earth.
-Venus is a planet also.
+It has no atmosphere.
